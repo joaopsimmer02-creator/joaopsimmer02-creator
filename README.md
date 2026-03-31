@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Simmer
+# 👋 Olá, eu sou João Pedro Simmer
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🏫 Universidade Católica de Brasília (UCB)  
@@ -8,7 +8,6 @@
 
 ## 🚀 Sobre mim
 
-Sou um estudante apaixonado por tecnologia, programação e resolução de problemas.  
 Atualmente estou focado em desenvolver minhas habilidades práticas através de projetos, estudos e exercícios.
 
 Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos e crescer profissionalmente na área de desenvolvimento.
@@ -30,18 +29,9 @@ Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos e 
 
 ---
 
-## 📈 GitHub Stats
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
-- 📧 Email: seuemail@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/seu-linkedin  
+- 📧 Email: joaopsimmer02@gmail.com 
 
 ---
 
